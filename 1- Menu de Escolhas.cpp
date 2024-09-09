@@ -7,6 +7,10 @@ printf("MENU\n");
 printf("1 - Adicionar um valor\n");
 printf("2 - Somar Pares\n");
 printf("3 - Verificar primos\n");
+  oi
+
+  oiiiiiii
+  tchau
 printf("4 - Imprimir numeros de 1 a 5 decrescentemente\n");
 printf("5 - Calcular media de 5 numeros digitados\n");
 printf("6 - Identificar numeros pares e impares ate 20\n");
