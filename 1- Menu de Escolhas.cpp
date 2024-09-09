@@ -23,6 +23,15 @@ printf("O valor e positivo: %d\n", valor);
 printf("O valor e negativo ou igual a 0: %d\n", valor);
 }
 
+
+
+bghggjf,y
+
+
+kgjgkjgk,
+
+9787743
+
 break;
 
 
@@ -53,7 +62,7 @@ break;
 if (primo == 1 && num > 1) {
 printf("%d e um numero primo\n", num);
 } else {
-printf("%d nao e um número primo\n", num);
+printf("%d nao e um nï¿½mero primo\n", num);
 }
 break;
 
